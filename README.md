@@ -18,3 +18,5 @@ Plugins are listed by Anthropic as one of Claude's capabilities, alongside Skill
 ---
 
 *This is an independent page written by a third party; it is not operated by or affiliated with Anthropic, and all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
